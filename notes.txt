@@ -1,2 +1,3 @@
 # 6 do i have to test normality for anova for each crossection or group
 # var devide bby n or n-1
+#  Raport 7 Welch Anova
